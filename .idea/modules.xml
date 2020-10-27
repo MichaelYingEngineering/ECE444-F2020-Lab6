@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ECE444-F2020-Lab6.iml" filepath="$PROJECT_DIR$/.idea/ECE444-F2020-Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../M4/dev/project1-webapp-group14-nullpointers/.idea/project1-webapp-group14-nullpointers.iml" filepath="$PROJECT_DIR$/../../M4/dev/project1-webapp-group14-nullpointers/.idea/project1-webapp-group14-nullpointers.iml" />
+    </modules>
+  </component>
+</project>
